@@ -40,8 +40,8 @@ This is a Streamlit-based dashboard for analyzing Healthcare Datasets. It allows
 ## **Installation**
 1. **Clone this repository:**
 ```bash
-git clone https://github.com/KruthikaTS/Ai_intern.git
-cd Ai_intern
+https://github.com/KruthikaTS/MedStream-Analytics.git
+cd MedStream-Analytics
 
 2. *Create a virtual environment:*
 python -m venv venv
